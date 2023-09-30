@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Новая папка\papka02\bin\Debug\net6.0\papka02.exe
+C:\Users\user\Desktop\Новая папка\papka02\bin\Debug\net6.0\papka02.deps.json
+C:\Users\user\Desktop\Новая папка\papka02\bin\Debug\net6.0\papka02.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\papka02\bin\Debug\net6.0\papka02.dll
+C:\Users\user\Desktop\Новая папка\papka02\bin\Debug\net6.0\papka02.pdb
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.dll
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\refint\papka02.dll
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.pdb
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\papka02.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\papka02\obj\Debug\net6.0\ref\papka02.dll
