@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Новая папка\papka05\bin\Debug\net6.0\papka05.exe
+C:\Users\user\Desktop\Новая папка\papka05\bin\Debug\net6.0\papka05.deps.json
+C:\Users\user\Desktop\Новая папка\papka05\bin\Debug\net6.0\papka05.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\papka05\bin\Debug\net6.0\papka05.dll
+C:\Users\user\Desktop\Новая папка\papka05\bin\Debug\net6.0\papka05.pdb
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.dll
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\refint\papka05.dll
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.pdb
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\papka05.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\papka05\obj\Debug\net6.0\ref\papka05.dll
